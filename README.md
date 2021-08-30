@@ -1,2 +1,5 @@
 # cartpole_q_learning
-Reinforcement Learning of Cartpole from gym
+
+Advance Machine Learning 2nd Exercise
+
+Cartpole-v0 from gym with Q-Learning
